@@ -3,7 +3,7 @@
 balance = 100000
 
 while True:
-    print("\nATM SIMULATOR")
+    print("\nATM Simulator")
     print("1. Check bal")
     print("2. Deposit money")
     print("3. Withdraw money")
