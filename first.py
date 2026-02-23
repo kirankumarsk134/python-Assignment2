@@ -1,1 +1,0 @@
-print("Assignment 2: First Python Programm")
