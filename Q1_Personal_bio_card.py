@@ -1,6 +1,6 @@
 #Personal Bio Card
 
-#storing data in diff variables
+#storing personal data in diff variables
 student_name = "Kiran Kumar S K"
 age = 21
 course = "GENAI Internship"
