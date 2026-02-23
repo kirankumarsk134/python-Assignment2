@@ -9,6 +9,7 @@ sub = n1 - n2
 mul = n1 * n2
 expo = n1 ** n2
 
+#checking that the 2nd no. is not zero, if it is zero the ans of division and moduulus is not defined.
 if n2 == 0:
     print("division not possible")
     print("modulus not possible")
