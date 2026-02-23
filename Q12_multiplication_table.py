@@ -1,4 +1,4 @@
-#multiplication table
+#multiplication table for number
 
 number = int(input("Enter number: "))
 end_range = int(input("Enter range (end): "))
